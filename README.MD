@@ -29,7 +29,7 @@ To run this project, you need to install the following Python libraries:
 
 You can install the required libraries by running the following:
 
-```python
+```shell
 pip install pyedflib numpy scipy matplotlib
 ```
 
